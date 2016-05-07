@@ -28,6 +28,7 @@
 	  <tag>HEAD</tag>
   </scm>
 
+<!--  Testing out the online JFrog Artifactory 
 	<repositories>
 		<repository>
 			<id>central</id>
@@ -80,6 +81,7 @@
 			</releases>
 		</pluginRepository>
 	</pluginRepositories>
+-->
 
 	<build>
 		<plugins>
